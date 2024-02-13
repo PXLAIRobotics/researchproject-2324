@@ -1,4 +1,4 @@
-# Research Project '23-'24: AI & Robotics
+# Research Project '23-'24: AIN
 ## DARTS: Digitized Automatic Rapid Tally System
 
 Teams are provided the physical darts setup, supported with IP cameras that show the board from different angles.
