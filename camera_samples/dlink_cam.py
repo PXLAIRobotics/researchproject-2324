@@ -50,9 +50,9 @@ class Camera():
 
 if __name__ == '__main__':
     params = {
-        "url": "192.168.1.32",
+        "url": "192.168.1.26",
         'name': "admin",
-        'password': "EtN9sgZJvBKi",
+        'password': "E2Wj6i2rA29s",
         "stream": "video1.mjpg",
         'fps': 30
     }
